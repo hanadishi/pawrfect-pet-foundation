@@ -1,0 +1,124 @@
+.navbar {
+    background-color: #7d4233; 
+    display: flex;
+    align-items: flex-end;
+    justify-content:space-between;
+    padding-bottom: 15px;
+}
+
+body {
+    margin: 0;
+    height: 1000px;
+}
+
+.nav-buttons a {
+    background-color: #ffd390;
+    color: #7d4233;
+    border: none;
+    text-decoration: none;
+    padding: 5px 32px;
+    margin-left: 5px;
+    font-size: 22px;
+    letter-spacing: 2px;
+    border-radius: 500px;
+    text-align: center;
+}
+
+.nav-buttons {
+    margin-left: 128px;
+    margin-bottom: 15px;
+}
+
+.top {
+    background-image:url(logo_files/width_2400);
+    background-size: cover;
+    padding: 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    font-size: 110px;
+    text-align: center;
+    color:#ffe3b8 ;
+    text-shadow: 2px 2px 5px black;
+    font-weight:bolder;
+    font-family:serif;
+    margin-top: 30px;
+}
+
+
+.logo img {
+    height: 98px;
+    position:relative;
+}
+
+.ampon img {
+    height: 90px;
+    position: relative;
+    margin-top: 15px;
+}
+
+.mission {
+    background-image: url("s2.png");
+    background-size:cover;
+    padding: 10px;
+    background-repeat: no-repeat;
+    background-position: top;
+    width:1370px;
+    height: 120vh;
+}
+
+.heart {
+    font-size: 40px;
+    color: #7d4233;
+    padding-left: 11px;
+    margin: 0;
+}
+
+.heart-bg {
+     background-color: #f1cba8;
+     border-radius: 150px;
+     width: 60px;
+     display:inline-block;
+     margin-left: 25px;
+     margin-top: 100px;
+     height: 53px;
+}
+
+.mision {
+    font-size: 18px ;
+    display: flexbox;
+    padding-left: 98px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #452829;
+}
+
+.h1 {
+    margin: 0;
+    margin-top: -51px;
+}
+
+.p {
+  margin-top: 0px;
+  font-size: 20px;
+  line-height: 40px;
+}
+
+.hta {
+    background-image: url("section3.png");
+    background-size:cover;
+    padding: 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 200vh;
+}
+
+.footer {
+    background-color: white; 
+    display:flexbox;
+    border: none;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
